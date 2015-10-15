@@ -1,5 +1,5 @@
 Rosario's Stamp Collection App
 ---
-# About
+# About Rosario
 
 Stuff about Rosario's Stamp Collection App...
