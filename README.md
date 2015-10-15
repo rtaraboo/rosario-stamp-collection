@@ -1,5 +1,5 @@
 Rosario's Stamp Collection App
 ---
-# About Rosario
+# About Rosario Stamp Collection
 
-Stuff about Rosario's Stamp Collection App...
+Rosario has been collection stamps since 1979.
