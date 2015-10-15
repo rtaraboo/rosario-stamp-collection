@@ -2,4 +2,4 @@ Rosario's Stamp Collection App
 ---
 # About Rosario
 
-Stuff about Rosario's Stamp Collection App...
+Newspaper raves about this massive colleciton.
